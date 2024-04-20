@@ -1,0 +1,18 @@
+<map id="SceneView&lt; ComponentTypes &gt;" name="SceneView&lt; ComponentTypes &gt;">
+<area shape="rect" id="Node000001" title="Iterator for Entites of the scene." alt="" coords="718,497,923,602"/>
+<area shape="rect" id="Node000002" href="$struct_scene.html" title="Scene object to hold all entities and components." alt="" coords="422,149,582,434"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="583,354,745,484,742,489,580,359"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="368,5,551,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,70,464,124,465,131,460,132,459,125,456,70"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="137,68,217,122,409,236,406,240,214,127,134,73"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="205,5,343,71"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="304,69,413,188,409,192,300,72"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="762,5,799,71"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="797,70,805,94,821,199,828,304,829,401,827,480,822,480,824,401,823,305,815,199,799,95,792,71"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="763,51,729,71,692,97,595,196,592,192,688,93,726,66,761,47"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="575,5,696,71"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="577,70,548,96,528,134,523,131,544,93,573,66"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="869,259,1071,324"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="954,325,861,484,857,481,950,322"/>
+</map>

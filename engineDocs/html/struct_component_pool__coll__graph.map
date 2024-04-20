@@ -1,0 +1,7 @@
+<map id="ComponentPool" name="ComponentPool">
+<area shape="rect" id="Node000001" title="Bitmask storage for each entities components." alt="" coords="5,134,137,239"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,56,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="33,70,36,109,38,117,33,118,31,110,27,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="86,5,134,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,71,92,118,87,116,99,70"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="SceneView&lt; ComponentTypes &gt;::Iterator" name="SceneView&lt; ComponentTypes &gt;::Iterator">
+<area shape="rect" id="Node000001" title="Iterator for the SceneView." alt="" coords="655,497,848,677"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="358,259,441,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,323,423,378,436,407,455,432,496,470,543,502,592,528,640,549,638,554,590,533,540,507,492,474,451,436,432,409,418,380,402,324"/>
+<area shape="rect" id="Node000003" href="$struct_scene.html" title="Scene object to hold all entities and components." alt="" coords="465,149,625,434"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="627,404,681,482,677,485,622,407"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="368,5,551,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="459,71,460,97,464,124,466,132,461,133,459,125,455,97,454,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,180,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="130,68,172,98,221,122,253,131,282,133,335,129,389,127,419,133,451,146,449,151,417,138,388,132,336,134,282,139,252,136,219,127,169,102,127,73"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="205,5,343,71"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="306,69,338,97,376,122,395,130,412,133,430,137,452,147,450,152,429,142,411,138,393,135,373,127,335,101,302,73"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="762,5,799,71"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="797,70,805,94,805,125,789,314,769,481,764,480,784,313,799,125,799,95,792,71"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="764,50,729,70,692,97,637,156,633,153,688,93,726,65,761,46"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="575,5,696,71"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="576,67,561,80,549,96,535,133,530,131,544,93,557,77,573,63"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="869,259,1071,324"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="950,325,841,475,833,485,829,482,837,471,946,322"/>
+</map>

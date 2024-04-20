@@ -1,0 +1,7 @@
+<map id="Scene::EntityDesc" name="Scene::EntityDesc">
+<area shape="rect" id="Node000001" title="Entity Description." alt="" coords="97,134,219,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,127,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,69,127,118,123,122,87,72"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="151,5,352,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,72,194,122,189,118,226,69"/>
+</map>

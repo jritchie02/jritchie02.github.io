@@ -1,0 +1,9 @@
+<map id="SpriteSheetComponent" name="SpriteSheetComponent">
+<area shape="rect" id="Node000001" title="Sprite Sheet Component." alt="" coords="109,384,257,449"/>
+<area shape="rect" id="Node000002" href="$class_sprite_sheet.html" title="Sprite Sheet class." alt="" coords="5,5,141,291"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,290,86,325,102,358,111,371,107,374,97,361,81,327,71,291"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="169,115,196,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,180,185,366,180,366,180,180"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="288,115,325,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="313,180,314,219,311,266,301,316,280,361,269,374,264,371,275,358,296,314,306,266,309,219,308,181"/>
+</map>

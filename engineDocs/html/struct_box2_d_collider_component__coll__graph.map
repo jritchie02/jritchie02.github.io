@@ -1,0 +1,15 @@
+<map id="Box2DColliderComponent" name="Box2DColliderComponent">
+<area shape="rect" id="Node000001" title="Box2D Collider Component." alt="" coords="255,134,419,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,83,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,67,116,88,151,107,195,125,240,139,238,145,193,130,149,112,113,93,81,71"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="107,5,218,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,69,235,108,258,123,255,128,231,112,188,72"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="243,5,331,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,70,287,90,292,109,297,119,292,121,287,111,282,91,281,71"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="355,5,421,71"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="378,71,359,119,354,117,373,69"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="445,5,483,71"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="448,68,411,112,397,125,393,121,407,108,443,65"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="507,5,618,71"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="538,72,516,93,491,112,437,139,434,134,488,107,512,89,534,69"/>
+</map>

@@ -1,1 +1,309 @@
-Hello World
+<!DOCTYPE html>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  <head>
+    <title>Jared Ritchie</title>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=no"
+    />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript
+      ><link rel="stylesheet" href="assets/css/noscript.css"
+    /></noscript>
+  </head>
+  <body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Header -->
+      <header id="header" class="alt">
+        <span class="logo"><img src="images/logo.svg" alt="" /></span>
+        <h1>Jared Ritchie</h1>
+        <p>Computer Science, Engineering, Game Development<br /></p>
+      </header>
+
+      <!-- Nav -->
+      <nav id="nav">
+        <ul>
+          <li><a href="#experience" class="active">Experience</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#engine">Game Engine</a></li>
+        </ul>
+      </nav>
+
+      <!-- Main -->
+      <div id="main">
+        <!-- Introduction -->
+        <section id="experience" class="main">
+          <header class="major">
+            <h2>Experience</h2>
+          </header>
+          <ul class="features">
+            <li>
+              <span class="icon solid major style1 fa-code"></span>
+              <h3>Aliaswire</h3>
+              <p>Automation Engineer Co-op</p>
+            </li>
+            <li>
+              <span class="icon major style3 solid fa-laptop"></span>
+              <h3>Torbu</h3>
+              <p>Frontend Software Engineer</p>
+            </li>
+            <li>
+              <span class="icon major style5 solid fa-code-branch"></span>
+              <h3>Playstation</h3>
+              <p>Presentation Progammer Intern</p>
+            </li>
+          </ul>
+          <footer class="major"></footer>
+        </section>
+
+        <!-- First Section -->
+        <section id="education" class="main special">
+          <div class="spotlight">
+            <div class="content">
+              <header class="major">
+                <h2>Northeastern University</h2>
+              </header>
+              <p>Northeastern Computer Science 2020-2024</p>
+            </div>
+            <span class="image"><img src="images/NULogo.jpeg" alt="" /></span>
+          </div>
+        </section>
+
+        <!-- Second Section -->
+        <section id="engine" class="main special">
+          <header class="major">
+            <h2>2D Game Engine</h2>
+            <p>
+              CS4580 Final Project '24<br />
+              Dear ImGUI/SDL3 2D Game builder featuring Entity Component System
+              and Python Scripting.
+            </p>
+          </header>
+          <ul class="statistics">
+            <li class="style5">
+              <strong>Demo</strong>
+              <ul class="actions special">
+                <li><a href="https://www.youtube.com/watch?v=07BpgVAqmHU" class="button">Watch</a></li>
+              </ul>
+              <ul
+              class="statistics"
+              style="display: flex; flex-direction: column;"
+            >
+              <li class="style5">
+                <strong>Grid Viewport and Entity Properties</strong>
+                <ul class="actions special">
+                  <img
+                    src="images/EnginePhoto03.png"
+                    alt=""
+                    style="max-width: 100%"
+                  />
+                </ul>
+              </li>
+              <li class="style5">
+                <strong> Collision Viewport and Spritesheet Editor</strong>
+                <ul class="actions special">
+                  <img
+                    src="images/EnginePhoto02.png"
+                    alt=""
+                    style="max-width: 100%"
+                  />
+                </ul>
+              </li>
+              <li class="style5">
+                <strong>Tranform Properties and View Settings</strong>
+                <ul class="actions special">
+                  <img
+                    src="images/EnginePhoto01.png"
+                    alt=""
+                    style="max-width: 100%"
+                  />
+                </ul>
+              </li>
+            </ul>
+            </li>
+          </ul>
+          <header class="minor">
+            <section id="documentation" class="main special">
+              <!-- Link to show your documentation -->
+              <header class="major">
+                <h2>Documentation</h2>
+                <p>Project Documentation generated with Doxygen</p>
+              </header>
+              <!-- Link to show your documentation -->
+              <div class="actions special">
+                <a href="./engineDocs/html/index.html" class="button"
+                  >Read Documentation</a
+                >
+              </div>
+            </section>
+            <header class="major">
+              <h2 style="padding-top: 5rem">Architecture</h2>
+              <p>Project Documentation generated with Doxygen</p>
+            </header>
+            <ul class="actions special">
+              <img
+                src="./engineDocs/html/_application_8cpp__incl.png"
+                alt=""
+                style="max-width: 130%"
+              />
+            </ul>
+          </header>
+          <header class="minor" style="padding-top: 5rem;">
+            <h2>Binary Files</h2>
+            <p>Quick Start with MacOS</p>
+            <ul class="actions special">
+              <li>
+                <a
+                  href="https://drive.google.com/drive/folders/1LNl-1T7EkWsTFdvBAylHpikfzOM_wwRW?usp=sharing"
+                  class="button"
+                  >View Binary</a
+                >
+              </li>
+            </ul>
+          </header>
+          <ul class="statistics" style="padding-top: 5rem;">
+            <li class="style5">
+              <h1>Post Mortem</h1>
+
+              <div>
+                <h2>Positive Aspects:</h2>
+                <p>
+                  The Entity-Component-System (ECS) architecture used in this
+                  engine is very flexible for configuring entities. It provides
+                  an easy way to create new components and manage their
+                  lifecycle. The SceneView class allows for easy manipulation of
+                  entities and components, utilizing the bitmask data structure
+                  to iterate through components efficiently. This is much more efficient
+                  than the OOP approach of iterating through all entities and
+                  checking if they have the desired components covered in the 
+                  Space Invaders project.
+                </p>
+              </div>
+
+              <div>
+                <h2>Areas for Improvement:</h2>
+                <ul style="list-style-type: none; padding-left: 0">
+                  <li>
+                    <div>Focus on Scripting:</div>
+                    <p>
+                      Given more time, I would prioritize enhancing the
+                      scripting capabilities of the engine. This would involve
+                      improving the integration with Python, providing more
+                      extensive scripting APIs, and enabling more seamless
+                      interaction between C++ and Python code. In the engine's
+                      current state, scripting is primarily used to create and
+                      add entities, but modifying entity properties and
+                      behaviors is limited. I would allow the update and input
+                      systems to call Python script methods to allow for more
+                      customization.
+                    </p>
+                  </li>
+                  <li>
+                    <div>Adding a scene manager:</div>
+                    <p>
+                      The engine currently only supports one scene at a time.
+                      Adding a scene manager would allow for multiple scenes to
+                      be loaded and managed at once. This would allow for more
+                      complex games to be created with multiple levels and
+                      scenes.
+                    </p>
+                  </li>
+                  <li>
+                    <div>Improving Box2D Physics:</div>
+                    <p>
+                      The engine currently uses a grid-based system to build the
+                      world. Each tile gets assigned a Box2D body and fixture.
+                      Box2D recommends using a single body for all connected
+                      tiles in a level. This fixes the issue of the player
+                      getting stuck on corners of tiles.
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+          <header class="minor">
+            <h2>References</h2>
+            <p>Resources, Articles, and Art used in this project</p>
+            <ul class="statistics">
+              <li class="style1">
+                <span class="icon solid fa-code-branch"></span>
+                <strong>ECS</strong> David Colson Article
+                <a
+                  href="https://www.david-colson.com/2020/02/09/making-a-simple-ecs.html"
+                  class="label"
+                  >here</a
+                >
+              </li>
+              <li class="style2">
+                <span class="icon fa-folder-open"></span>
+                <strong>Art</strong> Spritesheet Pixel Art
+                <a
+                  href="https://opengameart.org/content/a-platformer-in-the-forest"
+                  class="label"
+                  >here</a
+                >
+              </li>
+              <li class="style4">
+                <span class="icon solid fa-laptop"></span>
+                <strong>UI Styles</strong> TheCherno ImGUI Styles
+                <a
+                  href="https://www.youtube.com/watch?v=oESRecjuLNY"
+                  class="label"
+                  >here</a
+                >
+              </li>
+            </ul>
+          </header>
+          <footer class="major"></footer>
+        </section>
+      </div>
+
+      <!-- Footer -->
+      <footer id="footer">
+        <section>
+          <h2>Jared Ritchie</h2>
+          <p>
+            Website built and hosted on Github Pages. Template sourced from
+            <a href="https://html5up.net/stellar" target="_blank">HTMLUP</a>.
+          </p>
+        </section>
+        <section>
+          <ul class="icons">
+            <li>
+              <a
+                href="https://github.com/jritchie02"
+                class="icon brands fa-github alt"
+                ><span class="label">GitHub</span></a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.linkedin.com/in/jared-ritchie/"
+                class="icon brands fa-linkedin alt"
+                ><span class="label">LinkedIn</span></a
+              >
+            </li>
+          </ul>
+        </section>
+        <p class="copyright">&copy; Jared Ritchie. 2024.</p>
+      </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
